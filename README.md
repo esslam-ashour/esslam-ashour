@@ -5,14 +5,8 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/esslam-ashour">
+  <a href="https://www.linkedin.com/in/esslam-ashour" align="center">
     <img src="https://github.com/esslam-ashour/esslam-ashour/assets/61587419/9bba1d3c-2d80-45ce-9609-10326fbe4be9" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
