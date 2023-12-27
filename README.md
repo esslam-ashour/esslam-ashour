@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="LinkedIn Badge"/>
+    <img src="https://github.com/esslam-ashour/esslam-ashour/assets/61587419/9bba1d3c-2d80-45ce-9609-10326fbe4be9" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
