@@ -3,7 +3,7 @@
 <!--
 **esslam-ashour/esslam-ashour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a first-year student at The University of Chicago.
+- I am a first-year student at The University of Chicago.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
