@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linked.com/in/esslam-ashour">
     <img src="https://github.com/esslam-ashour/esslam-ashour/assets/61587419/9bba1d3c-2d80-45ce-9609-10326fbe4be9" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
