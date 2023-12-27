@@ -5,7 +5,9 @@
 </div>
 
 
+![design_illusion](https://github.com/esslam-ashour/esslam-ashour/assets/61587419/cec235e0-2805-416f-9299-884515c818c9)
 ### About me...
-- 🧑‍🎓 I am a first-year CS student at [The University of Chicago](https://www.uchicago.edu) 
+- 🧑‍🎓 First-year CS student at [The University of Chicago](https://www.uchicago.edu) 
 - 💻 HPC Systems Administrator Assistant at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
+- 
 
