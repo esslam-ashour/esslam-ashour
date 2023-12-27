@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey! I am Esslam...
 
 <!--
 **esslam-ashour/esslam-ashour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a first-year student at The University of Chicago.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
