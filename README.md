@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/JyyUwsNClJDoI.gif" width="100"/>
+  <img src="http://mitvergnuegen.com/2015/11-saetze-die-social-media-manager-nicht..." width="100"/>
 </div>
 
 
