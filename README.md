@@ -8,3 +8,8 @@
 - 💻 HPC Systems Administrator Assistant at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
 - 💡 Interested in full-stack web development, Android development and Natural Language Processing.
 
+### 🛠️ Languages and tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ 
+</div>
