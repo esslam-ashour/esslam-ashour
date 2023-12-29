@@ -2,8 +2,10 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4BnnmOr00GGsw/giphy-downsized-large.gif" width="100"/>
+  <img src="https://giphy.com/embed/4BnnmOr00GGsw" width="100"/>
 </div>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/4BnnmOr00GGsw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-mrw-someone-4BnnmOr00GGsw">via GIPHY</a></p>
 
 
 - 🇪🇬 19 year-old Egyptian, graduated from UWC Thailand 🇹🇭 in 2023
