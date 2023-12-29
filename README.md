@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/4BnnmOr00GGsw/giphy.gif?cid=ecf05e478h2qlswj6ca22tjzdzp71oarrpd9xll6stpoibeu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100%"/>
+  <img src="https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif" width="100" />
 </div>
 
 - 🇪🇬 19 year-old Egyptian, graduated from UWC Thailand 🇹🇭 in 2023
