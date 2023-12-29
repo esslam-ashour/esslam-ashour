@@ -8,8 +8,3 @@
 - 💻 HPC Systems Administrator Assistant at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
 - 💡 Interested in full-stack web development, Android development and Natural Language Processing.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/esslam-ashour">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
