@@ -1,8 +1,5 @@
-### About me...
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBwbTh2dWQxMGFlNjliOGl0bjB2ZDg4cnhybDMzOWJ2bWYycTR2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d0OzEa5ljIlFjNmUgM/giphy.gif" />
 </div>
 
 - 🇪🇬 19 year-old Egyptian, graduated from UWC Thailand 🇹🇭 in 2023
