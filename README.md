@@ -33,3 +33,8 @@ A pet adoption platform for Egypt, using React, Node.js and Tailwind as of now ð
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
+
+### ðŸ”¥ My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esslam-ashour&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
