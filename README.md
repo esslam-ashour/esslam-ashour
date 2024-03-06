@@ -7,7 +7,7 @@
 - 🧑‍🎓 First-year CS student at [The University of Chicago](https://www.uchicago.edu) 
 - 💻 HPC Systems Administrator Assistant at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
 - 🔜 Incoming Software Development Intern at [Alleo.ai](https://alleo.ai/) for Summer 2024 
-- 💡 Interested in full-stack web development and Natural Language Processing.
+- 💡 Interested in full-stack web development and natural language processing.
 
 
 ### 🌱 Currently working on...
