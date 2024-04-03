@@ -12,7 +12,7 @@
 
 ### 🌱 Currently working on...
 * A pet adoption platform for Egypt, using React, Node.js and Tailwind as of now 🐈
-* A web-based final exam schedule that allows easier lookup, better readability and optional reminders for UChicago students, potentially replacing the current method of using excel sheets.
+* A web-based final exam schedule that allows easier lookup, better readability and optional reminders for UChicago students, potentially replacing the current method of using excel sheets 📓
 
 
 ### 🛠️ Languages and tools
