@@ -4,22 +4,21 @@
 
 ### 🧑‍💻 About me
 - 🇪🇬 19 year-old Egyptian, graduated from [UWC Thailand](https://www.uwcthailand.ac.th) 🇹🇭 in 2023
-- 🧑‍🎓 First-year CS student at [The University of Chicago](https://www.uchicago.edu) 
-- 💻 HPC Systems Administrator Assistant at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
+- 🧑‍🎓 Rising second-year CS and Linguistics student at [The University of Chicago](https://www.uchicago.edu) 
+- 💻 Technical Support Specialist at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
 - 🔜 Incoming Software Development Intern at [Alleo.ai](https://alleo.ai/) for Summer 2024 
 - 💡 Interested in full-stack web development and natural language processing.
 
 
 ### 🌱 Currently working on...
 * A pet adoption platform for Egypt, using React, Node.js and Tailwind as of now 🐈
-* A web-based final exam schedule that allows easier lookup, better readability and optional reminders for UChicago students, potentially replacing the current method of using excel sheets 📓
-
 
 ### 🛠️ Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
