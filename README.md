@@ -6,7 +6,7 @@
 - 🇪🇬 19 year-old Egyptian, graduated from [UWC Thailand](https://www.uwcthailand.ac.th) 🇹🇭 in 2023
 - 🧑‍🎓 Rising second-year CS and Linguistics student at [The University of Chicago](https://www.uchicago.edu) 
 - 💻 Technical Support Specialist at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
-- 🌞 Summer 2024 Software Engineering Intern at [Alleo.ai](https://alleo.ai/)
+- 🌞 Summer 2024 Software Development Intern at [Alleo.ai](https://alleo.ai/)
 - 💡 Interested in full-stack web development and natural language processing.
 
 
