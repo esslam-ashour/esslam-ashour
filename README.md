@@ -40,9 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
-[comment]: <🔥 My stats >
-[comment] <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esslam-ashour&theme=dark&background=000000)](https://git.io/streak-stats)>
-[comment] <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esslam-ashour)](https://github.com/anuraghazra/github-readme-stats)>
 
 
 
