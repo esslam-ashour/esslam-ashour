@@ -12,7 +12,7 @@
 
 ### 🌱 Currently working on...
 * A pet adoption platform for Egypt 🐈
-* A website that simplifies finding final exam schedules for UChicago students 🧑‍🎓
+* uchifinals: a website that simplifies finding final exam schedules and exporting to calendar for UChicago students 🧑‍🎓
 
 ### 🛠️ Languages and tools
 <div>
