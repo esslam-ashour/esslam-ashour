@@ -12,8 +12,6 @@
 
 ### 🌱 Currently working on...
 * tabanny: a pet adoption platform for Egypt 🐈
-* uchifinals: a website that simplifies finding final exam schedules and exporting to calendar for UChicago students 🧑‍🎓
-
 
 <!---
 ### 🛠️ Languages and tools
