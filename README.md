@@ -5,7 +5,7 @@
 ### 🧑‍💻 About me
 - 🇹🇭 Graduated from [UWC Thailand](https://www.uwcthailand.ac.th) in 2023
 - 🧑‍🎓 Second-year CS student at [The University of Chicago](https://www.uchicago.edu) 
-- 💻 Software Developer at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
+- 💻 Student Software Developer at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
 - 🌞 Summer 2024 Software Development Intern at [Alleo.ai](https://alleo.ai/)
 - 💡 Interested in full-stack software engineering and natural language processing.
 
