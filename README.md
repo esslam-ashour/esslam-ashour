@@ -7,7 +7,7 @@
 - 🧑‍🎓 Second-year CS student at [The University of Chicago](https://www.uchicago.edu) 
 - 💻 Student Software Developer at [The University of Chicago Research Computing Center](https://rcc.uchicago.edu)
 - 🌞 Summer 2024 Software Development Intern at [Alleo.ai](https://alleo.ai/)
-- 🌞 Summer 2025 Software Development Engineering Intern at [Amazon](https://amazon.com/)
+- 🌞 Summer 2025 Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/)
 - 💡 Interested in full-stack software engineering and natural language processing.
 
 
