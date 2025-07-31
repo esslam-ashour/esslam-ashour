@@ -1,10 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFlOTE1cjlrcXNueXI4bmV2MmJ6eHZsM2lhcmp2N3N5bXk4cGxsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R2HucdcYxO0qKYAhLD/source.gif" width="300"/>
 </div>
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/esslam-ashour/count.svg" alt="Visitor's Count" />
-</div>
 
 ### 🧑‍💻 About me
 - 🇹🇭 Graduated from [UWC Thailand](https://www.uwcthailand.ac.th) in 2023
