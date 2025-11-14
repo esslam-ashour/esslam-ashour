@@ -3,7 +3,7 @@
 </div>
 
 ### 🧑‍💻 About me
-- 🧑‍🎓 Third-year CS student at [The University of Chicago](https://www.uchicago.edu) 
+- 🧑‍🎓 Third-year CS + Linguistics student at [The University of Chicago](https://www.uchicago.edu) 
 - 💻 Software Developer at [The University of Chicago Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu)
 - 🌞 Summer 2024 Software Development Intern at [Alleo.ai](https://alleo.ai/)
 - 🌞 Summer 2025 Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/)
