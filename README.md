@@ -7,8 +7,7 @@
 - 💻 Software Developer at [The University of Chicago Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu)
 - 🌞 Summer 2024 Software Development Intern at [Alleo.ai](https://alleo.ai/)
 - 🌞 Summer 2025 Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/)
-- 💡 Interested in backend software engineering
-
+- 🌞 Summer 2026 Incoming Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 <!---
 ### 🛠️ Languages and tools
