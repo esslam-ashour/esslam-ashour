@@ -6,8 +6,8 @@
 - 🧑‍🎓 Third-year CS student at [The University of Chicago](https://www.uchicago.edu) 
 - 💻 Software Developer at [The University of Chicago Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu)
 - 🌞 Summer 2024 Software Development Intern at [Alleo.ai](https://alleo.ai/)
-- 🌞 Summer 2025 Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/)
-- 🌞 Summer 2026 Incoming Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/)
+- 🌞 Summer 2025 Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/) @ AWS Amplify 
+- 🌞 Summer 2026 Software Development Engineering Intern at [Amazon Web Services (AWS)](https://aws.amazon.com/) @ AWS CloudFormation
 
 
 
